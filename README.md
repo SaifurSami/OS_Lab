@@ -31,6 +31,6 @@
 ```
 ## Dynamic Storage Allocation Problems
 ```
-1. First Fit ✓
-2. Best Fit ✓
-3. Worst Fit ✓
+1. First Fit 
+2. Best Fit 
+3. Worst Fit 
